@@ -21,15 +21,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:frankamente
+  github: frankamente
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:frankamente
+  twitter: frankamente
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus:+FranciscoMarquezChaves
+  googleplus: +FranciscoMarquezChaves
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
